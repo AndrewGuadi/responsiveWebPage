@@ -1,0 +1,115 @@
+
+header{
+    margin: 20px 20px 20px 20px;
+}
+
+button{
+    border: 0;
+    padding:15px 30px;
+    margin-left:70px;
+    background-color:hsl(5, 85%, 63%);
+    color:white;
+    font-size: 15px;
+    font-weight: 600;
+    letter-spacing: 4px;
+}
+
+li{
+    display:inline;
+    float: right;
+    margin:10px 10px 10px 10px;
+    
+}
+ul{
+    display:inline;
+    margin:auto;
+}
+
+.pageTainer{
+    display:block;
+    margin: 5% 5% 0 5%;
+    font-family: "Inter";
+    
+}
+.container{
+    display:flex;
+    
+    
+}
+
+.leftFirst{
+    
+    align-items: center;
+    margin: 20px 20px 20px 20px;
+    width: 75%;
+    
+}
+
+.rightFirst {
+    text-align: center;
+    background-color: hsl(240, 100%, 5%);
+    color:white;
+    margin: 20px 0 0 20px;
+    padding: 0 24px 0 24px;
+    width: 400px;
+ }
+
+ .underweb3 {
+    display: flex;
+ }
+
+ .bottomPage {
+    display:flex;
+    margin: 4% 0 0 0;
+    padding:0;
+ }
+
+ .box{
+    display:flex;
+    margin:0;
+    padding:0;
+ }
+
+ .bottomText{
+    padding: 0 10px 0 10px;
+ }
+
+ h1{
+    width: 350px;
+    font-size: 60px;
+    font-weight: 800;
+ }
+
+ h2{
+    margin: 0;
+    padding:0;
+    color:hsl(60, 1%, 52%);
+    font-size:30px;
+ }
+
+ h3{
+    font-size: 20px;
+    font-weight: 1000;
+    width:200px;
+ }
+h4{
+   font-size: 45px;
+   color: hsl(35, 77%, 62%);
+   padding: 0px 0 0 40px;
+   text-align: left;
+}
+
+ h5{
+    padding: 25px 0 0 0;
+    font-size:20px;
+ }
+
+ p1{
+    padding:14px;
+ }
+ 
+ p{
+   width:230px;
+   line-height: 2;
+}
+
